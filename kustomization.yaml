@@ -1,5 +1,5 @@
 resources:
-- helm.yaml
+- base
 
 patches:
 - path: ignore-deployment-mutation-patch.yaml
